@@ -1,0 +1,10 @@
+[
+	{
+	  "modid": "zhbmfixes",
+	  "name": "HBM Fixes",
+	  "description": "Patching a few big flaws in HBM!",
+	  "version": "${version}",
+	  "mcversion": "${mcversion}",
+	  "authorList": ["Zeitheron"]
+	}
+]
